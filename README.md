@@ -17,7 +17,7 @@ com foco em estruturas de dados e programação modular.
 - Estruturas de dados
 - Programação modular
 
-## ▶️ Como executar
+##  Como executar
 
 1. Clone o repositório:
    git clone https://github.com/anallu-p/cadastro-alunos-python
